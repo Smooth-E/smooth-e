@@ -80,3 +80,5 @@
 </table>
 
 That's not all! Discover more of my work [here](https://github.com/Smooth-E?tab=repositories).
+
+You can make a donation on [boosty](https://boosty.to/smooth-e/donate) if you would like to.
