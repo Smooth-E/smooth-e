@@ -7,10 +7,14 @@
     >
 </picture>
 
-# Project
+# Projects
 
 <table>
-    <th><td>Name</td><td>Description</td><td>Links</td></th>
+    <tr>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Links</th>
+    </tr>
     <tr>
         <td>WADBS</td>
         <td>
@@ -25,6 +29,7 @@
                     <img height="24px" width="24px" alt="GitHub" src="resources/github-light.png">
                 </picture>
             </a>
+            <span> </span>
             <a href="https://apt.izzysoft.de/fdroid/index/apk/com.smoothie.wirelessDebuggingSwitch">
                 <img height="24px" width="24px" alt="IzzyOnDroid" src="resources/izzy-on-droid.png">
             </a>
