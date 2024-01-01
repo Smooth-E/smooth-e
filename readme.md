@@ -30,8 +30,8 @@
                 </picture>
             </a>
             <span> </span>
-            <a href="https://apt.izzysoft.de/fdroid/index/apk/com.smoothie.wirelessDebuggingSwitch">
-                <img height="24px" width="24px" alt="IzzyOnDroid" src="resources/izzy-on-droid.png">
+            <a href="https://f-droid.org/packages/com.smoothie.wirelessDebuggingSwitch/">
+                <img height="24px" width="24px" alt="F-Droid" src="resources/f-droid.png">
             </a>
         </td>
     </tr>
