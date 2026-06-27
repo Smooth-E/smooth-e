@@ -1,83 +1,32 @@
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="resources/hello-light.png">
-    <source media="(prefers-color-scheme: dark)" srcset="resources/hello-dark.png">
-    <img 
-        alt="Hello, I'm Smooth E, a future software engineer! I develop with reliability / usefulness / consistency / userbase / platform in mind." 
-        src="resources/hello-light.png"
-    >
-</picture>
+<img align="right" height="150" src="./resources/duke-wave-outlined.png"/>
 
-# Projects
+I'm Smooth-E, a software engineer.
 
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Links</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Smooth-E/wireless-adb-switch">WADBS</a></td>
-        <td>
-            An app that allows you to switch Android's Wireless Debugging feature on and off quickly. 
-            It provides several widgets and a quick settings tile to do this.
-        </td>
-        <td align="center">
-            <a href="https://github.com/Smooth-E/wireless-adb-switch">
-                <picture>
-                    <source media="(prefers-color-scheme: light)" srcset="resources/github-light.png">
-                    <source media="(prefers-color-scheme: dark)" srcset="resources/github-dark.png">
-                    <img height="24px" width="24px" alt="GitHub" src="resources/github-light.png">
-                </picture>
-            </a>
-            <span> </span>
-            <a href="https://f-droid.org/packages/com.smoothie.wirelessDebuggingSwitch/">
-                <img height="24px" width="24px" alt="F-Droid" src="resources/f-droid.png">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://zifirka.itch.io/it-wasnt-my-birthday">It wasn't my birthday</a></td>
-        <td>
-            A visual novel made for the <a href="https://itch.io/jam/sibgamejam-nov-2023">Siberian Game Jam</a> 
-            in three days. This is actually my first game made in Godot. It is not translated to any language and is 
-            only available in Russian as of now.
-        </td>
-        <td align="center">
-            <a href="https://zifirka.itch.io/it-wasnt-my-birthday">
-                <img height="24px" width="24px" alt="itch.io" src="resources/itch-io.png"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://smooth-e.itch.io/village-hero">Village Hero</a></td>
-        <td>
-            A game made for <a href="https://itch.io/jam/maxters-jam-2023">Maxter's Jam 2023</a> in three days.
-            This is a 2D shooter-platformer with a custom A* based pathfinding system and cute visuals.
-        </td>
-        <td align="center">
-            <a href="https://zifirka.itch.io/it-wasnt-my-birthday">
-                <img height="24px" width="24px" alt="itch.io" src="resources/itch-io.png"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Smooth-E/install-renderware">RenderWare installation guide</a></td>
-        <td>
-            A guide on how to install <a href="https://en.wikipedia.org/wiki/RenderWare">RenderWare</a> - a legendary 
-            game engine from the past. It originates from the installer files on Web Archive and an issue with a not so 
-            obvious fix.
-        </td>
-        <td align="center">
-            <a href="https://github.com/Smooth-E/wireless-adb-switch">
-                <picture>
-                    <source media="(prefers-color-scheme: light)" srcset="resources/github-light.png">
-                    <source media="(prefers-color-scheme: dark)" srcset="resources/github-dark.png">
-                    <img height="24px" width="24px" alt="GitHub" src="resources/github-light.png">
-                </picture>
-            </a>
-        </td>
-    </tr>
-</table>
+Currently focusing on Qt/QML application development for Linux on mobile. I also do Android app dev, game development and some reverse engineering.
+
+## Projects
+
+A list of projects in no particular order...
+
+- **Wireless ADB Switch**<br>
+  An android app that allows you to quickly toggle the built-in wireless debugging feature. Leverages root or Shizuku, provides widgets, a quick settings tile and some integrations with OneUI 2.
+  - [Source code](https://github.com/Smooth-E/wireless-adb-switch)
+  - [Get it on F-Droid](https://f-droid.org/ru/packages/com.smoothie.wirelessDebuggingSwitch/)
+- **App ports for Aurora OS**<br>
+  Various applications ported to work on [Aurora OS](https://auroraos.ru) with improvements going upstream.
+  - [Imageworks](https://github.com/smooth-e/aurora-imageworks)
+  - [Audioworks](https://github.com/smooth-e/aurora-audioworks)
+  - [Captain's Log](https://github.com/smooth-e/aurora-captains-log)
+  - [Todo List](https://github.com/smooth-e/aurora-todolist)
+  - [And more...](https://github.com/Smooth-E?tab=repositories&q=aurora&type=public&language=&sort=)
+- **Games!**<br>
+  Small games and concepts, mostly made for game jams. Some are source-available. Tech: Unity, Godot or LibGDX.
+  - [My itch.io page](https://smooth-e.itch.io/)
+  - [Some games are on GitHub](https://github.com/Smooth-E?tab=repositories&q=game&type=public&language=&sort=)
+- **Articles**<br>
+  Tutorials on how to get something cool done.
+  - [Install RenderWare](https://github.com/Smooth-E/install-renderware)
+  - [Spin up Aurora OS SDK on your Android phone (for fun)](https://github.com/Smooth-E/aurora-sdk-termux)
 
 That's not all! Discover more of my work [here](https://github.com/Smooth-E?tab=repositories).
 
